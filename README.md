@@ -26,7 +26,7 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 * 🌍  I'm live in Galle, Sri Lanka
 * ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com], Work mail : janinduchamod200125@gmail.com
 * 🧠  I'm learning Mobile Application Development.
-* ⚡  I am Video Game lover and Artisit.
+* ⚡  I am Video Game lover and Artist.
 
 ### Skills
 
