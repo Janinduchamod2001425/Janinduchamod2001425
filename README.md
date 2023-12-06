@@ -4,12 +4,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer.
 ------------------------------------------------------------------------------------------------------------------
 
-🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 💻 Tech Stack: My toolkit includes a versatile range of technologies spanning both front-end and back-end development. From crafting responsive and dynamic user interfaces with HTML, CSS, and JavaScript, to architecting robust server-side solutions using frameworks like Node.js, I'm well-versed in the tools of the trade. I'm equally comfortable working with databases such as MongoDB and MySQL. 🎨 Design Aesthetics: My love for design extends beyond code. I believe in creating interfaces that not only function seamlessly but also captivate users with a thoughtful and intuitive design. I'm proficient in using design tools like Figma to bring concepts to life. 🌐 Projects: Explore my GitHub repositories to discover a diverse array of projects showcasing my skills. From interactive web applications to elegant design prototypes, each repository tells a story of problem-solving and creativity. 🔧 Skills Highlights: Front-End: HTML, CSS, JavaScript, React.js Back-End: Node.js, Express.js, Python (Flask) Databases: MongoDB, MySQL Design: Figma Version Control: Git, GitHub 🌱 Continuous Learning: In the dynamic world of technology, I embrace a mindset of continuous learning. Whether it's staying updated on the latest web development trends or experimenting with emerging tools, I'm always eager to expand my skill set. 🤝 Collaboration and Communication: I understand the importance of effective collaboration and communication in software development. I'm open to feedback, thrive in team environments, and enjoy the collaborative journey of bringing ideas to fruition. 📫 Let's Connect: I'm always open to connecting with fellow developers, designers, and enthusiasts. Feel free to reach out for collaboration, discussions, or just to share your thoughts on the latest in tech. 🚧 Currently Building: Currently, I'm working on Mobile Application Development. Stay tuned for updates and feel free to contribute or provide feedback! 🌟 Passion for Code: Beyond the syntax and algorithms, I have a genuine passion for leveraging technology to make a positive impact. Whether it's enhancing user experiences or solving real-world problems, I believe in the transformative power of well-crafted code.
+🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 
-* 🌍  I'm based in Galle, Sri Lanka
+💻 Tech Stack: My toolkit includes a versatile range of technologies spanning both front-end and back-end development. From crafting responsive and dynamic user interfaces with HTML, CSS, and JavaScript, to architecting robust server-side solutions using frameworks like Node.js, I'm well-versed in the tools of the trade. I'm equally comfortable working with databases such as MongoDB and MySQL. 
+
+🎨 Design Aesthetics: My love for design extends beyond code. I believe in creating interfaces that not only function seamlessly but also captivate users with a thoughtful and intuitive design. I'm proficient in using design tools like Figma to bring concepts to life. 
+
+🌐 Projects: Explore my GitHub repositories to discover a diverse array of projects showcasing my skills. From interactive web applications to elegant design prototypes, each repository tells a story of problem-solving and creativity. 🔧 Skills Highlights: Front-End: HTML, CSS, JavaScript, React.js Back-End: Node.js, Express.js, Python (Flask) Databases: MongoDB, MySQL Design: Figma Version Control: Git, GitHub 
+
+🌱 Continuous Learning: In the dynamic world of technology, I embrace a mindset of continuous learning. Whether it's staying updated on the latest web development trends or experimenting with emerging tools, I'm always eager to expand my skill set. 
+
+🤝 Collaboration and Communication: I understand the importance of effective collaboration and communication in software development. I'm open to feedback, thrive in team environments, and enjoy the collaborative journey of bringing ideas to fruition. 
+
+📫 Let's Connect: I'm always open to connecting with fellow developers, designers, and enthusiasts. Feel free to reach out for collaboration, discussions, or just to share your thoughts on the latest in tech. 
+
+🚧 Currently Building: Currently, I'm working on Mobile Application Development. Stay tuned for updates and feel free to contribute or provide feedback! 
+
+🌟 Passion for Code: Beyond the syntax and algorithms, I have a genuine passion for leveraging technology to make a positive impact. Whether it's enhancing user experiences or solving real-world problems, I believe in the transformative power of well-crafted code.
+
+* 🌍  I'm live in Galle, Sri Lanka
 * ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com](mailto:janiduchamod25@gmail.com, janiduchamod2001425@gmail.com )
 * 🧠  I'm learning Mobile Application Development.
-* ⚡  I am Video Game lover.
+* ⚡  I am Video Game lover and Artisit.
 
 ### Skills
 
