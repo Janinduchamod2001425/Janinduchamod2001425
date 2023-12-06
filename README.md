@@ -1,3 +1,5 @@
+<img src="https://c4.wallpaperflare.com/wallpaper/92/845/277/code-java-programming-life-hd-wallpaper-preview.jpg" width="100%" height="300"
+ 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janindu Chamod
 ======================================================================================================================================
 
@@ -23,7 +25,7 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 🌟 Passion for Code: Beyond the syntax and algorithms, I have a genuine passion for leveraging technology to make a positive impact. Whether it's enhancing user experiences or solving real-world problems, I believe in the transformative power of well-crafted code.
 
 * 🌍  I'm live in Galle, Sri Lanka
-* ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com]
+* ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com], Work mail : janinduchamod200125@gmail.com
 * 🧠  I'm learning Mobile Application Development.
 * ⚡  I am Video Game lover and Artisit.
 
