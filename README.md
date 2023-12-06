@@ -4,7 +4,7 @@
      ========================================================================================
 
 <h3 align="center"> 👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer in SLIIT.</h3>
----------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 
