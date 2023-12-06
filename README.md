@@ -1,7 +1,7 @@
 
 ![coding2](https://github.com/Janinduchamod2001425/Janinduchamod2001425/assets/132637475/44c8fc76-a4a9-45fb-b746-c74186097521)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janindu Chamod
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janindu Chamod 🦂
 ======================================================================================================================================
 
 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer in SLIIT .
@@ -9,24 +9,39 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 
-💻 Tech Stack: My toolkit includes a versatile range of technologies spanning both front-end and back-end development. From crafting responsive and dynamic user interfaces with HTML, CSS, and JavaScript, to architecting robust server-side solutions using frameworks like Node.js, I'm well-versed in the tools of the trade. I'm equally comfortable working with databases such as MongoDB and MySQL. 
+💻 Tech Stack: 
+
+
+
+  💙 Front-End: HTML, CSS, JavaScript, React.js
+
+  🧡 Back-End: Node.js, Express.js, Python (Flask
+
+  💛 Databases: MongoDB, MySQL
+
+  💜 Design: Figma, Adobe Creative Suite
+
+  💖 Version Control: Git, GitHub
+
+
 
 🎨 Design Aesthetics: My love for design extends beyond code. I believe in creating interfaces that not only function seamlessly but also captivate users with a thoughtful and intuitive design. I'm proficient in using design tools like Figma to bring concepts to life. 
 
-🌐 Projects: Explore my GitHub repositories to discover a diverse array of projects showcasing my skills. From interactive web applications to elegant design prototypes, each repository tells a story of problem-solving and creativity. 🔧 Skills Highlights: Front-End: HTML, CSS, JavaScript, React.js Back-End: Node.js, Express.js, Python (Flask) Databases: MongoDB, MySQL Design: Figma Version Control: Git, GitHub 
+🌐 Projects: Explore my GitHub repositories to discover a diverse array of projects showcasing my skills. From interactive web applications to elegant design prototypes, each repository tells a story of problem-solving and creativity. 
 
-🌱 Continuous Learning: In the dynamic world of technology, I embrace a mindset of continuous learning. Whether it's staying updated on the latest web development trends or experimenting with emerging tools, I'm always eager to expand my skill set. 
-
-🤝 Collaboration and Communication: I understand the importance of effective collaboration and communication in software development. I'm open to feedback, thrive in team environments, and enjoy the collaborative journey of bringing ideas to fruition.  
+🔧 Skills Highlights: Front-End: HTML, CSS, JavaScript, React.js Back-End: Node.js, Express.js, Python (Flask) Databases: MongoDB, MySQL Design: Figma Version Control: Git, GitHub 
 
 🚧 Currently Building: Currently, I'm working on Mobile Application Development.
 
 🌟 Passion for Code: Beyond the syntax and algorithms, I have a genuine passion for leveraging technology to make a positive impact. Whether it's enhancing user experiences or solving real-world problems, I believe in the transformative power of well-crafted code.
 
+<img alt="coding-life" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+
 * 🌍  I'm live in Galle, Sri Lanka
-* ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com], Work mail : janinduchamod200125@gmail.com
+* ✉️  You can contact me at janiduchamod25@gmail.com | janiduchamod2001425@gmail.com
+* 📧  Work mail : janinduchamod200125@gmail.com
 * 🧠  I'm learning Mobile Application Development.
-* ⚡  I am Video Game lover and Artist.
+* ⚡  I am Video Game lover and Artist. 🎮 🖌
 
 ### Skills
 
@@ -39,5 +54,7 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/janindu-chamod-1025492a1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+Thanks for visiting! Let's code the future together. 🚀✨
 
 
