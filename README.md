@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janindu Chamod 🦂
 ======================================================================================================================================
 
-A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer in SLIIT .
+👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer in SLIIT.
 ------------------------------------------------------------------------------------------------------------------
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
@@ -42,7 +42,7 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 * 🧠  I'm learning Mobile Application Development.
 * ⚡  I am Video Game lover and Artist. 🎮 🖌
 
-### Skills
+### Skills (Languages & Tools)
 
 
 <p align="left">
