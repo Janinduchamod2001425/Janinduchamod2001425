@@ -1,10 +1,10 @@
 <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janindu Chamod 🦂
-======================================================================================================================================
+<h1 align="center"> Hi! 👋 My name is Janindu Chamod 🦂</h1>
+     ============================================================================================
 
-👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer in SLIIT.
-------------------------------------------------------------------------------------------------------------------
+<h3 align="center"> 👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate Software Engineer in SLIIT.</h3>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 
@@ -54,5 +54,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://www.github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/janindu-chamod-1025492a1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janinduchamod2001425&show_icons=true&locale=en&layout=compact" alt="janinduchamod2001425" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janinduchamod2001425&show_icons=true&locale=en" alt="janinduchamod2001425" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janinduchamod2001425&" alt="janinduchamod2001425" /></p>
 Thanks for visiting! Let's code the future together. 🚀✨
 
