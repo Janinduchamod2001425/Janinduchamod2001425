@@ -23,7 +23,7 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 🌟 Passion for Code: Beyond the syntax and algorithms, I have a genuine passion for leveraging technology to make a positive impact. Whether it's enhancing user experiences or solving real-world problems, I believe in the transformative power of well-crafted code.
 
 * 🌍  I'm live in Galle, Sri Lanka
-* ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com](mailto:janiduchamod25@gmail.com, janiduchamod2001425@gmail.com )
+* ✉️  You can contact me at [janiduchamod25@gmail.com, janiduchamod2001425@gmail.com]
 * 🧠  I'm learning Mobile Application Development.
 * ⚡  I am Video Game lover and Artisit.
 
@@ -37,14 +37,6 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/https://github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/janindu-chamod-49b2b3226/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/https://github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/janindu-chamod-1025492a1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/https://github.com/Janinduchamod2001425"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/Janinduchamod2001425&bg_color=7c2d12&color=ffffff&line=0891b2&point=ffffff&area_color=7c2d12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
