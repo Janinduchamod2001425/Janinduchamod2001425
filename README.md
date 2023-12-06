@@ -1,5 +1,4 @@
-
-![coding2](https://github.com/Janinduchamod2001425/Janinduchamod2001425/assets/132637475/44c8fc76-a4a9-45fb-b746-c74186097521)
+<img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janindu Chamod 🦂
 ======================================================================================================================================
@@ -56,5 +55,4 @@ A passionate Full-Stack Web Developer and Designer with a strong foundation as a
 <p align="left"> <a href="https://www.github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/janindu-chamod-1025492a1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 Thanks for visiting! Let's code the future together. 🚀✨
-
 
