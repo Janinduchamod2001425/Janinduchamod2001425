@@ -14,11 +14,11 @@
 
   💙 Front-End: HTML, CSS, JavaScript, React.js
 
-  🧡 Back-End: Node.js, Express.js, Python (Flask
+  🧡 Back-End: Node.js, php, Java, Javascript 
 
   💛 Databases: MongoDB, MySQL
 
-  💜 Design: Figma, Adobe Creative Suite
+  💜 Design: Figma
 
   💖 Version Control: Git, GitHub
 
