@@ -37,7 +37,8 @@
 <img alt="coding-life" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 * 🌍  I'm live in Galle, Sri Lanka
-* ✉️  You can contact me at janiduchamod25@gmail.com | janiduchamod2001425@gmail.com
+* ✉️  You can contact me at janiduchamod25@gmail.com | janiduchamod2001425@gmail.com or
+* 📞  Mobile : +94 70 483 0006
 * 📧  Work mail : janinduchamod200125@gmail.com
 * 🧠  I'm learning Mobile Application Development.
 * ⚡  I am Video Game lover and Artist. 🎮 🖌
