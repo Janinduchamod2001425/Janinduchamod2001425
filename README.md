@@ -10,12 +10,8 @@
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 <div align="center">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+    <img alt="coding-life" width="420" height="200" style="border-radius:10px;" src="https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg">
+    <img alt="coding-life" width="420" height="200" style="border-radius:10px;" src="https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg"> &nbsp;&nbsp;
 </div><br>
 
 🌍 &nbsp; I'm live in Galle, Sri Lanka <br>
