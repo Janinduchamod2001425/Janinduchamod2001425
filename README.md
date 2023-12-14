@@ -10,22 +10,20 @@
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 <div align="center">
-    <img alt="coding-life" width="120" border-radius="15px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-</div>
-
+    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+    <img alt="coding-life" width="120" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> &nbsp;&nbsp;
+</div><br>
 
 🌍 &nbsp; I'm live in Galle, Sri Lanka <br>
 ✉️ &nbsp; You can contact me at janiduchamod25@gmail.com | janiduchamod2001425@gmail.com <br>
 📞 &nbsp; Mobile : +94 70 483 0006 <br>
 📧 &nbsp; Work mail : janinduchamod200125@gmail.com <br>
 🧠 &nbsp; I'm learning Mobile Application Development. <br>
-⚡ &nbsp; I am Video Game lover and Artist. 🎮 🖌 <br>
+⚡ &nbsp; I am Video Game lover and Artist. 🎮 🖌 <br><br>
 
 
 ### 🧰  Skills ( Languages and Tools )
@@ -47,7 +45,7 @@
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />           
 <br>
-
+<br>
 
 ### Socials
 
