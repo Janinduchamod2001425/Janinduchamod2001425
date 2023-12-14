@@ -22,18 +22,6 @@
 
   💖 Version Control: Git, GitHub
 
-
-
-🎨 Design Aesthetics: My love for design extends beyond code. I believe in creating interfaces that not only function seamlessly but also captivate users with a thoughtful and intuitive design. I'm proficient in using design tools like Figma to bring concepts to life. 
-
-🌐 Projects: Explore my GitHub repositories to discover a diverse array of projects showcasing my skills. From interactive web applications to elegant design prototypes, each repository tells a story of problem-solving and creativity. 
-
-🔧 Skills Highlights: Front-End: HTML, CSS, JavaScript, React.js Back-End: Node.js, Express.js, Python (Flask) Databases: MongoDB, MySQL Design: Figma Version Control: Git, GitHub 
-
-🚧 Currently Building: Currently, I'm working on Mobile Application Development.
-
-🌟 Passion for Code: Beyond the syntax and algorithms, I have a genuine passion for leveraging technology to make a positive impact. Whether it's enhancing user experiences or solving real-world problems, I believe in the transformative power of well-crafted code.
-
 <img alt="coding-life" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 * 🌍  I'm live in Galle, Sri Lanka
@@ -57,8 +45,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janinduchamod2001425&show_icons=true&locale=en&layout=compact" alt="janinduchamod2001425" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janinduchamod2001425&show_icons=true&locale=en" alt="janinduchamod2001425" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en" alt="janinduchamod2001425" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janinduchamod2001425&" alt="janinduchamod2001425" /></p>
 Thanks for visiting! Let's code the future together. 🚀✨
-
