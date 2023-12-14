@@ -1,6 +1,8 @@
 <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-<h1 align="center"> Hi! 👋 I'm Janindu Chamod 🦂</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Janindu+Chamod!+👽;+FullStack+Web+Developer+👨‍💻;+UI+Designer+🎨;" />
+</h1>
      ========================================================================================
 
 <h3 align="center"> 👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate student in SLIIT.</h3>
