@@ -35,7 +35,7 @@
 | **API Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman" /> |
 | **IDE** | <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,eclipse,androidstudio" /> |
 | **AI/ML** | <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" /> |
-| **Other** | <img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite,redux,tomcat,zustand" /> |
+| **Other** | <img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite,redux,tomcat" /> |
  
 
 ### Socials
