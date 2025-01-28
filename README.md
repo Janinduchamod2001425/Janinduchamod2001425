@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!+🌍;+I'm+Janindu+Chamod!+👽;+Software+Engineer+🦂;+FullStack+Developer+👨‍💻;+UI/UX+Designer+🎨;" />
 </h1>
-     ───────────────────────────────────────── ─  👽  ─ ─────────────────────────────────────────
+     ────────────────────────────────────── ─  👽  ─ ──────────────────────────────────────
 
 <h3 align="center"> 👨‍🎓 A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
 
