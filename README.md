@@ -4,12 +4,13 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!+🌍;+I'm+Janindu+Chamod!+👽;+Software+Engineer+🦞;+FullStack+Developer+👨‍💻;+UI/UX+Designer+🎨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!+🌍;+I'm+Janindu+Chamod!+👽;+Software+Engineer+🦂;+FullStack+Developer+👨‍💻;+UI/UX+Designer+🎨;" />
 </h1>
-     ========================================================================================
+     ───────────────────────────────────────── ─  👽  ─ ─────────────────────────────────────────
 
-<h3 align="center"> 👨‍🎓 A passionate Full-Stack Developer with a strong foundation as an undergraduate Software Engineering student at SLIIT.</h3>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center"> 👨‍🎓 A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
+
+<hr />
 
 🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 
@@ -32,8 +33,8 @@
 | **Version Control** | <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git" /> |
 | **Deployment Platforms** | <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" /> |
 | **Design Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva" /> |
-| **API Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman" /> |
-| **IDE** | <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,eclipse,androidstudio" /> |
+| **API Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman,api" /> |
+| **IDE** | <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse,androidstudio" /> |
 | **AI/ML** | <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" /> |
 | **Other** | <img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite,redux,tomcat" /> |
  
