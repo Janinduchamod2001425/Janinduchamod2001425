@@ -26,7 +26,7 @@
 | **Programming**   | <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin,dart" /> |
 | **Frontend**   | <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,angular,vite,next" /> |
 | **Backend**    | <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php" /> | 
-| **Database**   | <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase" /> | 
+| **Database**   | <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase,appwrite" /> | 
 | **Cloud**      | <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" /> | 
 | **Mobile**     | <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,reactnative,expo,androidstudio" /> |
 | **Styling/UI Frameworks** | <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,daisyui,tailwindcss" /> |
@@ -36,7 +36,7 @@
 | **API Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman,api" /> |
 | **IDE** | <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse,androidstudio" /> |
 | **AI/ML** | <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" /> |
-| **Other** | <img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite,redux,tomcat" /> |
+| **Other** | <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" /> |
  
 
 ### Socials
