@@ -17,7 +17,6 @@
 🌍 &nbsp; I'm live in Galle, Sri Lanka <br>
 ✉️ &nbsp; You can contact me at janiduchamod25@gmail.com <br>
 📞 &nbsp; Mobile : +94 70 483 0006 <br>
-📧 &nbsp; Work mail : janinduchamod200125@gmail.com <br>
 🧠 &nbsp; I'm learning Mobile Application Development. <br>
 ⚡ &nbsp; I am Video Game lover and Artist. 🎮 🖌 <br><br>
 
