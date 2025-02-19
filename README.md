@@ -8,17 +8,23 @@
 </h1>
    <p align="center"> ──────────────────────────────── ─  👽  ─ ────────────────────────────────</p> 
 
-<h3 align="center"> 👨‍🎓 A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
+<h3 align="center"> A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
 
-<hr />
+### 🫱🏻‍🫲🏻 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/janinduchamod2001425)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janinduchamod)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janiduchamod25@gmail.com)
 
-🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
+### 🔥 Rapid Fire
+- 🔨 I’m currently working on: 📱 **Universal web-based price tracking system**
+- 📖 I’m currently learning: **Next.JS 15 & Tailwind V4**
+- 🎨 Exploring: **Flutter, Next.js, Firebase, Spline 3D and AI-Powered UI/UX**
+- 🎮 Fun fact: **I love gaming and digital art—reimagining designs in modern ways!**
+- 🌐 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)
 
-🌍 &nbsp; I'm live in Galle, Sri Lanka <br>
-✉️ &nbsp; You can contact me at janiduchamod25@gmail.com <br>
-📞 &nbsp; Mobile : +94 70 483 0006 <br>
-🧠 &nbsp; I'm learning Mobile Application Development. <br>
-⚡ &nbsp; I am Video Game lover and Artist. 🎮 🖌 <br><br>
+### 💡 Skills
 
 | **Technology** | **Tools**          | 
 |-----------------|-------------------|
@@ -36,11 +42,6 @@
 | **IDE** | <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse,androidstudio" /> |
 | **AI/ML** | <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" /> |
 | **Other** | <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" /> |
- 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img align="left" alt="C" width="35px" style="padding-right:8px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/janindu-chamod-1025492a1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en&layout=compact" alt="janinduchamod2001425" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en" alt="janinduchamod2001425" /></p>
