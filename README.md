@@ -10,6 +10,10 @@
 
 <h3 align="center"> A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
 
+<div align="center">
+  <img alt="coding-life" src="/octocat/octocat.png" width="300px">
+</div>
+
 ### 🫱🏻‍🫲🏻 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/janinduchamod2001425)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janinduchamod)
