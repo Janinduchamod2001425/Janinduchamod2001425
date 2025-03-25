@@ -62,7 +62,6 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en&layout=compact" alt="janinduchamod2001425" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en" alt="janinduchamod2001425" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janinduchamod2001425&&theme=algolia" alt="janinduchamod2001425" /></p>
   <br>
   Thanks for visiting! Let's code the future together. 🚀✨
 </div>
